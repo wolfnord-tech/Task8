@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task8</string>
+    <string name="dog">Собака</string>
+    <string name="generate_image">Сгенерировать изображение</string>
+    <string name="start_taskWorker">Запустить последовательную задачу</string>
+    <string name="startParallelTaskWorker">Запустить параллельную задачу</string>
+</resources>
